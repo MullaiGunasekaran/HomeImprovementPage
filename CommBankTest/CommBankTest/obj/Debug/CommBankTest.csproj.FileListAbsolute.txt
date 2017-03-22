@@ -1,0 +1,13 @@
+C:\Mullai\C#\My Projects\CommBankTest\CommBankTest\bin\Debug\CommBankTest.dll.config
+C:\Mullai\C#\My Projects\CommBankTest\CommBankTest\bin\Debug\CommBankTest.dll
+C:\Mullai\C#\My Projects\CommBankTest\CommBankTest\bin\Debug\CommBankTest.pdb
+C:\Mullai\C#\My Projects\CommBankTest\CommBankTest\bin\Debug\nunit.framework.dll
+C:\Mullai\C#\My Projects\CommBankTest\CommBankTest\bin\Debug\TechTalk.SpecFlow.dll
+C:\Mullai\C#\My Projects\CommBankTest\CommBankTest\bin\Debug\WebDriver.dll
+C:\Mullai\C#\My Projects\CommBankTest\CommBankTest\bin\Debug\WebDriver.Support.dll
+C:\Mullai\C#\My Projects\CommBankTest\CommBankTest\bin\Debug\nunit.framework.xml
+C:\Mullai\C#\My Projects\CommBankTest\CommBankTest\bin\Debug\WebDriver.xml
+C:\Mullai\C#\My Projects\CommBankTest\CommBankTest\bin\Debug\WebDriver.Support.xml
+C:\Mullai\C#\My Projects\CommBankTest\CommBankTest\obj\Debug\CommBankTest.csprojResolveAssemblyReference.cache
+C:\Mullai\C#\My Projects\CommBankTest\CommBankTest\obj\Debug\CommBankTest.dll
+C:\Mullai\C#\My Projects\CommBankTest\CommBankTest\obj\Debug\CommBankTest.pdb
